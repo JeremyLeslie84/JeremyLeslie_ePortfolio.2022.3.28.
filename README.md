@@ -8,7 +8,7 @@ My name is Jeremy Leslie and this ePortfolio has been created to display some of
 
 # Application Summary/Introduction - Contact/Appointment Management Application.
 
-The following JAVA script is for a simple contact/appoinment management application that allows users to perfrom CRUD functionality on both contacts and appointments. I have included it in this ePortfolio to demostrate the following skills: object orientated programming techniques, input checking consideration, exception handling, file read/write algorithms, simple data structure implementation, string and date formatting, and evaluation statements.
+The following JAVA scripts are for a simple contact/appointment management application that allows users to perform CRUD functionality on both contacts and appointments. I have included it in this ePortfolio to demonstrate the following skills: object orientated programming techniques, input checking consideration, exception handling, file read/write algorithms, simple data structure implementation, string and date formatting, and evaluation statements.
 
 - ### Main Class.
 
@@ -1166,7 +1166,7 @@ public class AppointmentService {
 
 # Application Summary/Introduction - Encryption Application.
 
-The following c++ script is for a simple XOR cipher application that reads an encrypted string from a file, decrypts the string, and checks its values against a user input for authorization. I have included it in this ePortfolio to demostrate the following skills: data encryption techniques, string parsing, file read/write algorithms, simple data structure implementation, and evaluation statements.
+The following c++ script is for a simple XOR cipher application that reads an encrypted string from a file, decrypts the string, and checks its values against a user input for authorization. I have included it in this ePortfolio to demonstrate the following skills: data encryption techniques, string parsing, file read/write algorithms, simple data structure implementation, and evaluation statements.
 
 
 # Execution Screen Shot(s).
@@ -1336,9 +1336,9 @@ int main(int argc, const char* argv[]) {
 }
 ```
 
-# Application Summary/Introduction - MongoDB with Javascript Database Management Application.
+# Application Summary/Introduction - MongoDB with JavaScript Database Management Application.
 
-The following scripts are for a database management application that operates on the machine local host. The server is implemented using node npm with express, the MongoDB database is implemented using the mongoose driver, and the views are coded in html. I have included this application in this ePortfolio to demostrate the following skills: database implementation, simple server implementation, and user interface design.
+The following scripts are for a database management application that operates on the machine local host. The server is implemented using node with express, the MongoDB database is implemented using the mongoose driver, and the views are coded in html. I have included this application in this ePortfolio to demonstrate the following skills: database implementation, simple server implementation, and user interface design.
 
 # Execution Screen Shot(s).
   - ### Animal List View.
