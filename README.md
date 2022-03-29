@@ -1168,6 +1168,10 @@ public class AppointmentService {
 
 The following c++ script is for a simple XOR cipher application that reads an encrypted string from a file, decrypts the string, and checks its values against a user input for authorization. I have included it in this ePortfolio to demostrate the following skills: data encryption techniques, string parsing, file read/write algorithms, simple data structure implementation, and evaluation statements.
 
+
+# Execution Screen Shot(s).
+![](Images/Encryption%20Program%20Execution.png)
+
 - ### Source Code.
 
 ```c++
@@ -1336,6 +1340,19 @@ int main(int argc, const char* argv[]) {
 
 The following scripts are for a database management application that operates on the machine local host. The server is implemented using node npm with express, the MongoDB database is implemented using the mongoose driver, and the views are coded in html. I have included this application in this ePortfolio to demostrate the following skills: database implementation, simple server implementation, and user interface design.
 
+# Execution Screen Shot(s).
+  - ### Animal List View.
+  ![](Images/Animal%20List%20Print%20Screen.png)
+  - ### Insert View.
+  ![](Images/Insert%20Animal%20Screen.png)
+  - ### Update View.
+  ![](Images/Update%20Animal%20Screen.png)
+  - ### Delete View.
+  ![](Images/Delete%20Prompt.png)
+  - ### Find View.
+  ![](Images/Find%20Animal%20Screen.png)
+  ![](Images/Query%20List%20Screen.png)
+  
 - ### Animal Controller (JavaScript).
 
 ```js
