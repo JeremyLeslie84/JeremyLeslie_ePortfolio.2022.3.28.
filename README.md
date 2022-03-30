@@ -1,5 +1,3 @@
-# JeremyLeslie_ePortfolio.2022.3.28.
-
 # ***Introduction***
 
 Hello,
