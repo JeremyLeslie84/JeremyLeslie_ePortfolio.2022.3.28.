@@ -10,7 +10,9 @@ My name is Jeremy Leslie and this ePortfolio has been created to display some of
 
 The following JAVA scripts are for a simple contact/appointment management application that allows users to perform CRUD functionality on both contacts and appointments. I have included it in this ePortfolio to demonstrate the following skills: object orientated programming techniques, input checking consideration, exception handling, file read/write algorithms, simple data structure implementation, string and date formatting, and evaluation statements.
 
-- # Main Class.
+## Source Code
+
+- ### Main Class.
 
 ```java
 /*
@@ -287,7 +289,7 @@ public class Main {
 }
 ```
 
-- # Contact Class.
+- ### Contact Class.
 
 ```java
 /*
@@ -483,7 +485,7 @@ public class Contact {
 }
 ```
 
-- # ContactService Class.
+- ### ContactService Class.
 
 ```java
 /*
@@ -793,7 +795,7 @@ public class ContactService {
 }
 ```
 
-- # Appointment Class.
+- ### Appointment Class.
 
 ```java
 /*
@@ -923,7 +925,7 @@ public class Appointment {
 }
 ```
 
-- # AppointmentService Class.
+- ### AppointmentService Class.
 
 ```java
 /*
@@ -1169,10 +1171,12 @@ public class AppointmentService {
 The following c++ script is for a simple XOR cipher application that reads an encrypted string from a file, decrypts the string, and checks its values against a user input for authorization. I have included it in this ePortfolio to demonstrate the following skills: data encryption techniques, string parsing, file read/write algorithms, simple data structure implementation, and evaluation statements.
 
 
-# Execution Screen Shot(s).
+## Execution Screen Shot(s).
 ![](Images/Encryption%20Program%20Execution.png)
 
-- # Source Code.
+## Source Code.
+
+- ### Main
 
 ```c++
 /*
@@ -1340,7 +1344,7 @@ int main(int argc, const char* argv[]) {
 
 The following scripts are for a database management application that operates on the machine local host. The server is implemented using node with express, the MongoDB database is implemented using the mongoose driver, and the views are coded in html. I have included this application in this ePortfolio to demonstrate the following skills: database implementation, simple server implementation, and user interface design.
 
-# Execution Screen Shot(s).
+## Execution Screen Shot(s).
   - ### Animal List View.
   ![](Images/Animal%20List%20Print%20Screen.png)
   - ### Insert View.
@@ -1353,7 +1357,9 @@ The following scripts are for a database management application that operates on
   ![](Images/Find%20Animal%20Screen.png)
   ![](Images/Query%20List%20Screen.png)
   
-- # Animal Controller (JavaScript).
+ ## Source Code
+ 
+- ### Animal Controller (JavaScript).
 
 ```js
 /*
@@ -1528,7 +1534,7 @@ router.get('/delete/:id', (req,res) => {
 module.exports = router
 ```
 
-- # Animal Model (JavaScript).
+- ### Animal Model (JavaScript).
 
 ```js
 /*
@@ -1561,7 +1567,7 @@ var animalSchema = new mongoose.Schema({
 mongoose.model('Animal',animalSchema);
 ```
 
-- # Database Controller (JavaScript).
+- ### Database Controller (JavaScript).
 
 ```js
 /*
@@ -1589,7 +1595,7 @@ err=> {
 require('./animal.model')
 ```
 
-- # Index (JavaScript).
+- ### Index (JavaScript).
 
 ```js
 /*
@@ -1643,7 +1649,7 @@ app.listen(3000, () => {
 app.use('/animal', animalController);
 ```
 
-- # Add Or Edit View (html).
+- ### Add Or Edit View (html).
 
 ```html
 <!--view model for animal database add or edit-->
@@ -1681,7 +1687,7 @@ app.use('/animal', animalController);
 </form>
 ```
 
-- # Find View (html) ***After*** Enhancements.
+- ### Find View (html).
 
 ```html
 <!--view model for animal database add or edit-->
@@ -1707,7 +1713,7 @@ app.use('/animal', animalController);
 </form>
 ```
 
-- # List View (html) ***After*** Enhancements.
+- ### List View (html).
 
 ```html
 {{!-- 
@@ -1753,7 +1759,7 @@ view model for animal database print list
 </table>
 ```
 
-- # Main Layout Scheme (html) ***After*** Enhancements.
+- ### Main Layout Scheme (html).
 
 ```html
 <!--view model for main page layout and color schemes.-->
