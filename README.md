@@ -1,5 +1,3 @@
-<style>H1{color:Blue;}</style>
-
 # JeremyLeslie_ePortfolio.2022.3.28.
 
 # Introduction
