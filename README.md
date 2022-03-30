@@ -4,7 +4,7 @@
 
 Hello,
 
-My name is Jeremy Leslie and this ePortfolio has been created to display some of the skills that I have developed throughout the completion of the BS in computer science with a concentration in software engineering program at Southern New Hampshire University. It contains the scripts for several applications that I have developed to meet the requirements of the program. Each application includes a brief summary, which is then followed by the application scripts.
+My name is Jeremy Leslie and this ePortfolio has been created to display some of the skills that I have developed throughout the completion of the BS in computer science with a concentration in software engineering program at Southern New Hampshire University. It contains the source code for several applications that I have developed to meet the requirements of the program. Each application includes a brief summary, which is then followed by the application source code.
 
 
 
