@@ -10,7 +10,7 @@ My name is Jeremy Leslie and this ePortfolio has been created to display some of
 
 The following JAVA source code is for a simple contact/appointment management application that allows users to perform CRUD functionality on both contacts and appointments. I have included it in this ePortfolio to demonstrate the following skills: object orientated programming techniques, input checking consideration, exception handling, file read/write algorithms, simple data structure implementation, string and date formatting, and evaluation statements.
 
-## Source Code
+## Source Code.
 
 - ### Main Class.
 
@@ -1178,7 +1178,7 @@ The following c++ source code is for a simple XOR cipher application that reads 
 
 ## Source Code.
 
-- ### Main
+- ### Main.
 
 ```c++
 /*
@@ -1361,7 +1361,7 @@ The following source code is for a database management application that operates
   ![](Images/Find%20Animal%20Screen.png)
   ![](Images/Query%20List%20Screen.png)
   
- ## Source Code
+## Source Code.
  
 - ### Animal Controller (JavaScript).
 
